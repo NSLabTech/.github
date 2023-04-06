@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="./image/logo.png" alt="로고이미지">
+  <img src="../image/logo.png" alt="로고이미지">
   <br>
 </p>
 
@@ -24,11 +24,11 @@
 [![smallLogo]](https://www.nslab.tech/)
 
 <!-- Stack Icon Refernces -->
-[js]: image/javascript.svg
-[react]: image/react.svg
-[spring]: image/spring.svg
-[jae]: image/jae.jpg
-[you]: image/you.png
-[young]: image/young.png
-[kyu]: image/kyu.png
-[smallLogo]: image/logo_small.png
+[js]: ../image/javascript.svg
+[react]: ../image/react.svg
+[spring]: ../image/spring.svg
+[jae]: ../image/jae.jpg
+[you]: ../image/you.png
+[young]: ../image/young.png
+[kyu]: ../image/kyu.png
+[smallLogo]: ../image/logo_small.png
