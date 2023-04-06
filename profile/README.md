@@ -18,7 +18,7 @@
 
 
 ## Contact
-[![smallLogo]](https://www.nslab.tech/)
+[![logo_small]](https://www.nslab.tech/)
 
 <!-- Stack Icon Refernces -->
 [logo_small]: https://user-images.githubusercontent.com/102667851/230325578-9d59743b-3ee1-4055-9e42-85c2a35c21eb.png
