@@ -1,6 +1,6 @@
 # NSLabTech
 
-![logo](https://user-images.githubusercontent.com/102667851/230325262-a1645068-8bd3-4165-9692-b506a6e605d4.png)
+![KakaoTalk_20230406_174454510](https://user-images.githubusercontent.com/102667851/230327469-2242662a-5ef1-472b-b44e-57d1b8f07b75.png)
 
 ## Our Team
 
